@@ -1,0 +1,30 @@
+{
+  "name": "rn-device-specific-stylesheet",
+  "version": "1.0.0",
+  "description": "Device specific media query based stylesheet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "device",
+    "stylesheet",
+    "media query",
+    "styles",
+    "device specific",
+    "tablet",
+    "mobile"
+  ],
+  "author": "Gourav Singhal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gourav-singhal/rn-device-specific-stylesheet"
+  },
+  "homepage": "https://github.com/gourav-singhal/rn-device-specific-stylesheet#readme",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "0.x"
+  }
+}
